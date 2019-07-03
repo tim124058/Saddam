@@ -12,7 +12,7 @@ Read more about DDoS Amplification Attacks [here](http://www.pythonforpentesting
 Donation would be much appreciated: 1Gi5Rpz5RBEUpGknSwyRgqzk7b5bQ7Abp2
 # Requierments
  * OS Supports raw sockets
- * Python 2.7
+ * Python 3
  * [Pinject](https://github.com/OffensivePython/Pinject)
 
 # Usage
@@ -40,3 +40,7 @@ Options:
   -p FILE, --ssdp=FILE  SSDP Amplification file
   -t N, --threads=N     Number of threads (default=1)
 ```
+
+#  Note
+ * [Saddam](https://github.com/OffensivePython/Saddam) and [Pinject](https://github.com/OffensivePython/Pinject) python3 version
+ * only tested DNS Amplification
